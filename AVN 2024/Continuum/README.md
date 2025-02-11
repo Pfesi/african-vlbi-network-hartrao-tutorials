@@ -15,7 +15,13 @@ This tutorial is intended for students and researchers interested in learning ab
 
 **Resources:**
 
-* **School Website:** [SARAO/DARA School Website](https://events.sarao.ac.za/event/3/contributions/30/)
+* **Schools:** 
+
+    * [SARAO/DARA AVN School 2-16 November 2024](https://events.sarao.ac.za/event/3/contributions/30/)
+
+    * [SARAO/DARA AVN School 8-22 February 2025](https://events.sarao.ac.za/event/6/)
+
+
 * **Tutorial Files:** Download the tutorial files (including the `AVN_2024_Drift_scan_continuum_tutorial.ipynb` notebook) from [link to download location].
 
 **Getting Started:**
