@@ -10,7 +10,7 @@ This tutorial provides hands-on experience with collecting and analyzing radio c
 * Gain practical experience with DRAN software for data reduction.
 * Learn how to analyze observatory drift scan radio continuum observations.
 
-**Target Audience:**
+**Target Audience:**.
 
 This tutorial is intended for students and researchers interested in learning about radio astronomy data analysis.
 
