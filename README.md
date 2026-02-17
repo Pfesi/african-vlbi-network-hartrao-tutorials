@@ -1,1 +1,1 @@
-# DARA TUTORIALS
+# DARA tutorials for radio astronomy school held at Hartebeesthoek Radio Astronomy Observatory.

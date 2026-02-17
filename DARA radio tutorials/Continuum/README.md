@@ -34,5 +34,3 @@ This tutorial is intended for students and researchers interested in learning ab
     
     * [SARAO/DARA AVN School 2-16 November 2024](https://events.sarao.ac.za/event/3/contributions/30/)
 
-
-
