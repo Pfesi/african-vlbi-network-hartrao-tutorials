@@ -18,11 +18,14 @@ This tutorial is intended for students and researchers interested in learning ab
 
 * **Schools:** 
 
+   
+
     * [SARAO/DARA AVN School 2-16 November 2024](https://events.sarao.ac.za/event/3/contributions/30/)
 
     * [SARAO/DARA AVN School 8-22 February 2025](https://events.sarao.ac.za/event/6/)
 
     * [SARAO/DARA AVN School 14-28 September 2025](https://events.sarao.ac.za/event/10/contributions/211/)
 
+    * [SARAO/DARA AVN School 13-27 September 2026](hhttps://events.sarao.ac.za/event/13/)
 
 **Getting Started:** Download the tutorial folder and follow the instructions in the notebooks.
